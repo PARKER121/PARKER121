@@ -1,4 +1,5 @@
 # 💫 About Me:
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Amponsah Clinton
 🔭 I’m currently working on Flower flow<br>👯 I’m looking to collaborate on interesting projects<br>🤝 I’m looking for help with building mobile apps with Flutter and connected to an admin dashboard built with React<br>🌱 I’m currently learning Flutter and the Dart Framework<br>💬 Ask me about my business plan and how I can help you with a project<br>⚡ Fun fact, I'm a nerd lowkey 
 
 
